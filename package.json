@@ -1,0 +1,18 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Here I'm learning complete backened using node js, express js and mongoose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "chai",
+    "and",
+    "code"
+  ],
+  "author": "Vishal Singh",
+  "license": "ISC"
+}
